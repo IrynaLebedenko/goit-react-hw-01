@@ -1,14 +1,14 @@
 .profile {
     border: 4px solid black;
     border-radius: 8px;
-    background-color: rgb(247, 248, 247);
+    background-color: rgb(246, 242, 244);
     padding-top: 24px;
     max-width: 680px;
     margin: 0 auto;
 }
 .profileImg{
     border-radius: 50%;
-    background-color: rgb(40, 38, 38);
+    background-color: rgb(43, 39, 39);
     margin: 0 auto;
     margin-bottom: 12px;
 }
@@ -25,7 +25,7 @@
     display: flex;
     flex-direction: row;
     gap: 12px;
-    border-top: 4px solid rgb(128, 125, 125);
+    border-top: 4px solid rgb(71, 67, 67);
     background-color: #e3dbdb;
 }
 .profileStatsItem{
@@ -35,7 +35,7 @@
     font-weight: 500;
     font-size: 40px;
     width: calc((100% - 24px)/3);
-    border-left: 4px solid rgb(128, 125, 125);
+    border-left: 4px solid rgb(71, 67, 67);
 
 }
 .profileStatsItem:first-child{
